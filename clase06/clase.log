@@ -1,0 +1,8 @@
+WARNING:root:Este es un warning
+CRITICAL:root:Pasó un desastre
+WARNING:root:Este es un warning
+INFO:root:El programa pasó por acá
+CRITICAL:root:Pasó un desastre
+WARNING:root:Este es un warning
+INFO:root:El programa pasó por acá
+CRITICAL:root:Pasó un desastre

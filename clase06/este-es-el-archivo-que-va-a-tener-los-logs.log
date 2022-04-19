@@ -1,0 +1,5 @@
+2022-04-19 10:03:01,186 - INFO - Comenzando la ejecución de programa
+2022-04-19 10:03:01,186 - INFO - Solicitando nombre al usuario
+2022-04-19 10:03:02,350 - DEBUG - El usuario ingresó el nombre Juan
+2022-04-19 10:03:02,351 - INFO - Saludando al usuario con nombre Juan
+2022-04-19 10:03:02,351 - DEBUG - Usuario Juan ha sido saludado

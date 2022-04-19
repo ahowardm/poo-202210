@@ -1,0 +1,10 @@
+INFO:root:Comenzando la ejecución de programa
+INFO:root:Solicitando nombre al usuario
+DEBUG:root:El usuario ingresó el nombre Nicolás
+INFO:root:Saludando al usuario con nombre Nicolás
+DEBUG:root:Usuario Nicolás ha sido saludado
+2022-04-19 10:00:05,022 - INFO - Comenzando la ejecución de programa
+2022-04-19 10:00:05,022 - INFO - Solicitando nombre al usuario
+2022-04-19 10:00:06,287 - DEBUG - El usuario ingresó el nombre Juan
+2022-04-19 10:00:06,288 - INFO - Saludando al usuario con nombre Juan
+2022-04-19 10:00:06,288 - DEBUG - Usuario Juan ha sido saludado
